@@ -28,7 +28,7 @@
     <gwtVersion>2.7.0</gwtVersion>
     <gwtMaven>2.7.0</gwtMaven>
     <commonsFileuploadVersion>1.3.1</commonsFileuploadVersion>
-    <commonsIoVersion>2.3</commonsIoVersion>
+    <commonsIoVersion>2.7</commonsIoVersion>
     <gwtChismesVersion>0.9.7</gwtChismesVersion>
     <gwtExporterVersion>2.4.0-M1</gwtExporterVersion>
     <gwtIncubatorVersion>20101117-r1766</gwtIncubatorVersion>
@@ -170,7 +170,7 @@
     </developer>
   </developers>
 
-  <ciManagement />
+  <ciManagement/>
 
   <mailingLists>
     <mailingList>
